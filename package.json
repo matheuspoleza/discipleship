@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "description": "Small description for discipleship goes here",
   "license": "MIT",
-  "author": "",
+  "author": "Matheus Poleza <matheus.poleza@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "git@github.com:matheuspoleza/discipleship.git",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
@@ -40,5 +40,6 @@
   "engines": {
     "node": ">= 0.12.0"
   },
-  "private": true
+  "private": true,
+  "main": "index.js"
 }
